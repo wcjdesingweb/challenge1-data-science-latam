@@ -58,8 +58,8 @@ Tras un análisis exhaustivo de las métricas más relevantes de desempeño para
 4. **Costo Promedio de Envío**
 - Tienda 4 presenta el **costo promedio de envío más alto**, lo cual reduce su rentabilidad operativa y encarece su propuesta de valor.
 
-5. **Diversidad en Categorías**
-- La **menor variedad en categorías de productos** vendidas en Tienda 4 evidencia poco dinamismo o falta de atractivo comercial frente a las demás tiendas.
+5. **Diversidad en Categorías
+- La menor variedad en categorías de productos** vendidas en Tienda 4 evidencia poco dinamismo o falta de atractivo comercial frente a las demás tiendas.
 
  **Recomendación Final**
 Con base en todos los análisis realizados, se concluye que **la Tienda 4** es la **menos rentable** del portafolio actual.
@@ -69,9 +69,9 @@ por parte de los clientes y costos logísticos elevados.
 
 ---
 
-## 🛠️ Instrucciones para Ejecutar el Proyecto
+Instrucciones para Ejecutar el Proyecto
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/Alura-Store.git
+   git clone https://github.com/wcjdesingweb/challenge1-data-science-latam/tree/main
    cd Alura-Store
