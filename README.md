@@ -46,25 +46,25 @@ La Tienda 4 presenta un costo de envío promedio más alto, lo que puede estar a
 
 Tras un análisis exhaustivo de las métricas más relevantes de desempeño para cada una de las tiendas de **Alura Store**, se ha determinado que:
 
-1. **Facturación Total**
-- **La Tienda 4** registra la **menor facturación total**, lo cual es una señal clara de bajo rendimiento financiero.
+1. Facturación Total
+- La Tienda 4 registra la menor facturación total, lo cual es una señal clara de bajo rendimiento financiero.
 
-2. **Rotación de Productos**
+2. Rotación de Productos
 - Tienda 4 muestra una **rotación limitada**, con menos productos vendidos y más productos con baja frecuencia de compra.
   
-3. **Calificación Promedio**
-- Los clientes han evaluado a Tienda 4 con la **calificación promedio más baja**, lo que puede estar afectando directamente su retención de clientes y reputación.
+3. Calificación Promedio
+- Los clientes han evaluado a Tienda 4 con la calificación promedio más baja, lo que puede estar afectando directamente su retención de clientes y reputación.
 
-4. **Costo Promedio de Envío**
-- Tienda 4 presenta el **costo promedio de envío más alto**, lo cual reduce su rentabilidad operativa y encarece su propuesta de valor.
+4. Costo Promedio de Envío
+- Tienda 4 presenta el costo promedio de envío más alto, lo cual reduce su rentabilidad operativa y encarece su propuesta de valor.
 
-5. **Diversidad en Categorías
+5. Diversidad en Categorías
 - La menor variedad en categorías de productos** vendidas en Tienda 4 evidencia poco dinamismo o falta de atractivo comercial frente a las demás tiendas.
 
- **Recomendación Final**
-Con base en todos los análisis realizados, se concluye que **la Tienda 4** es la **menos rentable** del portafolio actual.
+Recomendación Final
+Con base en todos los análisis realizados, se concluye que la Tienda 4 es la menos rentable del portafolio actual.
 
-Se recomienda que esta tienda sea **puesta en venta o reestructurada profundamente**, ya que representa una baja rentabilidad, escasa rotación, baja aceptación 
+Se recomienda que esta tienda sea puesta en venta o reestructurada profundamente, ya que representa una baja rentabilidad, escasa rotación, baja aceptación 
 por parte de los clientes y costos logísticos elevados.
 
 ---
